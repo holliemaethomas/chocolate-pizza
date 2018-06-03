@@ -1,0 +1,72 @@
+img.large {
+  width: 800px;
+  margin-left: 20px;
+}
+img.small {
+width: 2%
+}
+p1{
+  font-size: 3pt;
+}
+
+ol {
+list-style-type: square;
+display: inline-block;
+font-family: 'Bad Script', cursive;
+}
+#recipeCard {
+  background-image: url("https://raw.githubusercontent.com/codefellows/seattle-201d31/master/10-js-debugging-wireframe-part-2/lab-assets/list-bg.png"); 
+  width: 800px;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+#logoimage {
+    float: left;
+}
+#rightheader {
+    float: right;
+    
+}
+header{
+    height: 75px;
+}
+header ul li {
+    display: inline-block;
+}
+P{
+  font-family: 'Oswald', sans-serif;
+  font-size: 18pt;
+}
+#logoheader{
+  font-size: 20pt;
+  font-family: 'Yellowtail', cursive;
+}
+#logosubheader{
+  font-size: 6pt;
+}
+body {
+  width: 900px;
+  margin-left: 70px;
+  margin-right: 70px;
+
+}
+#vanessaname{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold
+}
+#vanessa{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 12pt;
+}
+#vanessapic{
+  float: left;
+}
+
+button {
+  width: 145px;
+  height: 40px;
+  background-color: darkred;
+  color: white;
+
+}
